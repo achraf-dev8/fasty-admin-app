@@ -30,17 +30,13 @@ Additionally, this project includes the **Delivery App**, which is for delivery 
 1. **Download the project**:
    - Clone or download the project to your local machine.
 
-2. **Set up the Database**:
-   - Create a new MySQL database using the provided scripts.
-
-3. **Install Required Libraries**:
+2. **Install Required Libraries**:
    - In Flutter, run `flutter pub get` to install the required packages.
-   - In PHP, make sure to install any necessary libraries using **Composer**.
 
-4. **Set up Firebase**:
-   - Register for Firebase and add your Firebase keys to enable notifications.
+3. **Set up Firebase**:
+   - Register for Firebase and add your Firebase keys to enable notifications and Google/Facebook login.
 
-5. **Run the Application**:
+4. **Run the Application**:
    - After setting everything up, you can run the app on an emulator or a physical device.
 
 ## Notes
@@ -53,3 +49,13 @@ Additionally, this project includes the **Delivery App**, which is for delivery 
 If you have any questions or suggestions, feel free to reach out to us via:
 
 - Email: laifaachraf08@gmail.com
+
+## Preview
+![image alt](https://github.com/achraf-dev8/fasty-admin-app/blob/main/show_images/Copie%20de%20Sans%20titre.png)
+![image alt](https://github.com/achraf-dev8/fasty-admin-app/blob/main/show_images/Design%20sans%20t4itre.png)
+![image alt](https://github.com/achraf-dev8/fasty-admin-app/blob/main/show_images/Design%20sans%20titre%20(11).png)
+![image alt](https://github.com/achraf-dev8/fasty-admin-app/blob/main/show_images/Design%20sans%20titre%20(12).png)
+![image alt](https://github.com/achraf-dev8/fasty-admin-app/blob/main/show_images/Design%20sans%20titre%20(2).png)
+![image alt](https://github.com/achraf-dev8/fasty-admin-app/blob/main/show_images/Design%20sans%20titre%20(3).png)
+![image alt](https://github.com/achraf-dev8/fasty-admin-app/blob/main/show_images/Design%20sans%20titre%20(4).png)
+![image alt](https://github.com/achraf-dev8/fasty-admin-app/blob/main/show_images/Design%20sans%20titre.png)
